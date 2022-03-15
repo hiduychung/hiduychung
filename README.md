@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @hiduychung
-- 👀 I’m interested in python,C++
+- 👋 Hi, I’m Duy Chung 
 - 🌱 I’m currently learning UET-VNU
 - 📫 How to reach me email:chunglkkc@gmail.com
 
