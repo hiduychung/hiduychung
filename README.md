@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Duy Chung 
-- 🌱 I’m currently learning UET-VNU
-- 📫 How to reach me email:chunglkkc@gmail.com
+
 
 <!---
 hiduychung/hiduychung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
